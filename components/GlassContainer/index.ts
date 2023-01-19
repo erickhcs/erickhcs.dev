@@ -16,6 +16,6 @@ export const GlassContainer = styled.div`
     padding: 4rem;
 
     @media only screen and (max-width: 576px) {
-        padding: 0.5rem;
+        padding: 1.5rem;
     }
 `;
